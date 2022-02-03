@@ -49,7 +49,7 @@
   
 ## <p align="center">DEPLOY TO HEROKU</p>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Daffansaa/DAPA-UBOT.git"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=flat&logo=Heroku" width="325" height="50.100" />
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ammargantengbgt/AMMAR-UBOT.git"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=flat&logo=Heroku" width="325" height="50.100" />
 
 <br>
 </p>
